@@ -9,7 +9,6 @@ const hasOwnProperty = Object.hasOwnProperty;
 
 const china_domains = {
   "tmall.com": 1,
-  "baidu.com": 1,
   "qq.com": 1,
   "sohu.com": 1,
   "taobao.com": 1,
