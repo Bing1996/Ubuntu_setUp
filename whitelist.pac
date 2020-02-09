@@ -13,7 +13,6 @@ const china_domains = {
   "sohu.com": 1,
   "taobao.com": 1,
   "jd.com": 1,
-  "weibo.com": 1,
   "xinhuanet.com": 1,
   "alipay.com": 1,
   "csdn.net": 1,
