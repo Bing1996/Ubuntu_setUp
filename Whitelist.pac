@@ -8,6 +8,7 @@ const direct = "DIRECT;";
 const hasOwnProperty = Object.hasOwnProperty;
 
 const china_domains = {
+  "youtube.com": 0,
   "tmall.com": 1,
   "qq.com": 1,
   "sohu.com": 1,
